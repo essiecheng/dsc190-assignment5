@@ -4,15 +4,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-import xgboost
-
-x=1
-
-
-def hello():
-    unused_variable = 42
-    print( "hello world" )
-
-
-hello()
